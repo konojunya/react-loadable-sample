@@ -1,0 +1,19 @@
+{
+  "name": "react-loadable-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/react-loadable-sample.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel src/index.html"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router": "^4.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^1.10.2"
+  }
+}
