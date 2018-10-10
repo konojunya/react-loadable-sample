@@ -9,8 +9,8 @@
 
 before:
 
-![](https://github.com/konojunya/react-loadable-sample/blob/master/screenshots/before.png)
+![](https://github.com/konojunya/react-loadable-sample/blob/master/screenshots/before-shot.png)
 
 after:
 
-![](https://github.com/konojunya/react-loadable-sample/blob/master/screenshots/after.png)
+![](https://github.com/konojunya/react-loadable-sample/blob/master/screenshots/after-shot.png)
